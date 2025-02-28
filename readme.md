@@ -8,7 +8,6 @@ I'll include the dataset column details in the README. Here's the updated versio
 This project is an **Exploratory Data Analysis (EDA)** of Netflix data. The goal is to analyze and visualize trends in Netflix content, including genres, ratings, release years, and other key insights.  
 
 📌 **Live Demo**: [Click Here](https://datageniesk.github.io/Netflix-Data-Analysis-/)  
-📌 **GitHub Repository**: [Click Here](https://github.com/DatagenieSK/Netflix-Data-Analysis-)  
 
 ## 📊 Features  
 ✔️ Data Cleaning and Preprocessing  
